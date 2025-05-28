@@ -4,7 +4,7 @@
     <default-locale>en_US</default-locale>
     <name resource-id="name"/>
     <description>Export Summary Data to Excel</description>
-    <author name="Sanith Dhanpal" email="craig.bloodworth@theinformationlab.co.uk" organization="The Information Lab" website="https://www.theinformationlab.co.uk"/>
+    <author name="Sanith Dhanpal" email="dhanpalsanith@gmail.com" />
     <min-api-version>1.0</min-api-version>
     <source-location>
       <url>https://exportallextension.theinformationlab.io</url>
