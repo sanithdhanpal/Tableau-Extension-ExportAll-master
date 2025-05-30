@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>CSV Export Extension</title>
+  <script src="https://cdn.tableau.com/extensions/1.10.0/tableau.extensions.1.latest.min.js"></script>
+  <script src="script.js"></script>
+</head>
+<body>
+  <h2>Export Tableau Data</h2>
+  <button id="export-btn">Export to CSV</button>
+
+  <script>
+    document.getElementById('export-btn').addEventListener('click', () => {
+      exportCSV();
+    });
+  </script>
+</body>
+</html>
